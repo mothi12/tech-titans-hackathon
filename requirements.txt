@@ -1,0 +1,13 @@
+streamlit
+scikit-learn
+plotly
+openai
+openai[embeddings]
+tiktoken
+llama-index==0.7.21
+semantic-kernel
+pydantic
+pandas
+matplotlib
+langchain
+azure-storage-blob
